@@ -1,7 +1,7 @@
-# spider
+# Spider
 Collection H comic project start~
 
-## 环境安装
+### 环境安装
 | OS | Approach |
 | ---- | ----|
 | Debian | apt install -y chromium chromium-driver |
