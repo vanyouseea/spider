@@ -1,5 +1,5 @@
 # Spider
-Collection H comic project start~
+Collection comic project start~
 
 ### 环境安装
 | OS | Approach |
